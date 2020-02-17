@@ -1,0 +1,16 @@
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\bin\Debug\BonelessPizzasTest.exe.config
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\bin\Debug\BonelessPizzasTest.exe
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\bin\Debug\BonelessPizzasTest.pdb
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.Form1.resources
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.Properties.Resources.resources
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.csproj.GenerateResource.cache
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.csproj.CoreCompileInputs.cache
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.exe
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.pdb
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.Form2.resources
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.csprojAssemblyReference.cache
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.Form3.resources
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.Form4.resources
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.Form5.resources
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.Form6.resources
+C:\Users\mjone604\source\repos\BonelessPizzasTest\BonelessPizzasTest\obj\Debug\BonelessPizzasTest.Form7.resources
